@@ -1,6 +1,6 @@
-# news_app
+# Mostrando noticias en Flutter
 
-A new Flutter project.
+Proyecto simple con buen diseño de interfaz para enlazar noticias relevantes via API y mostrárlas a través de enlace externo.
 
 ## Getting Started
 
