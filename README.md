@@ -1,4 +1,4 @@
-# Mostrando noticias en Flutter
+# News on Flutter
 
 Project focused on developing a good interface design to link relevant news via API and display them through external link packages and experimentation with responsive design through Flexible.
 
@@ -15,5 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![news1](https://user-images.githubusercontent.com/91137238/197881570-711c2420-f240-4f4b-8a3c-b6017ef61562.gif) ![news2](https://user-images.githubusercontent.com/91137238/197881595-8a340c72-1bd4-437a-a920-4102e09f06a2.gif)
+![news1](https://user-images.githubusercontent.com/91137238/197900465-d3757a39-75e0-4b94-92a8-87475808f3e6.gif)
+
 
