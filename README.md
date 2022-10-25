@@ -1,6 +1,6 @@
 # Mostrando noticias en Flutter
 
-Proyecto simple con buen diseño de interfaz para enlazar noticias relevantes via API y mostrárlas a través de enlace externo.
+Project focused on developing a good interface design to link relevant news via API and display them through external link packages and experimentation with responsive design through Flexible.
 
 ## Getting Started
 
